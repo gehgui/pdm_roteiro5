@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Currículo e Experiência"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet. Sed libero aliquam et accusantium voluptatem et sequi aliquid. Ab magnam culpa eos deserunt incidunt et nisi cumque et galisum animi.
+
+Vel cupiditate molestiae sit similique quis et soluta porro. Et dicta porro in accusamus nostrum et deserunt voluptates et alias perspiciatis aut amet consequatur et totam corrupti aut ducimus dolor.
+
+Et nihil illum et officia earum non consequatur omnis ut nihil quibusdam qui earum labore et dignissimos explicabo qui fuga adipisci. Ea labore repellat id repellendus iure 33 harum porro. At aliquam sapiente sed aliquid unde et quia aliquid ut molestiae dolores non rerum sint? Et veniam eligendi sed perspiciatis esse et illo repudiandae et modi sapiente sit aliquam consequatur."
+        android:textSize="16sp" />
+</LinearLayout>
